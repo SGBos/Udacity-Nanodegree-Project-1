@@ -9,7 +9,7 @@ avatar = media.Movie("AVATAR",
 
 
 fury = media.Movie("FURY",
-					"""As the Allies make their final push in the European Theatre, a battle-hardened Army
+					"""A battle-hardened Army
 					 sergeant named Wardaddy commands a Sherman tank and his five-man crew on a deadly mission behind enemy lines.""",
 					"http://upload.wikimedia.org/wikipedia/en/1/17/Fury_2014_poster.jpg",
 					"https://www.youtube.com/watch?v=-OGvZoIrXpg")
