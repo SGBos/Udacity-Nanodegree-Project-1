@@ -25,7 +25,7 @@ main_page_head = '''
         }
         h2 {
           font-family: 'SteelTongs';
-          font-size: 300%;
+          font-size: 180%;
           letter-spacing: 1px
         }
         #trailer .modal-dialog {
@@ -131,11 +131,6 @@ main_page_content = '''
     </div>
   </body>
 
-  <nav class="navbar navbar-default navbar-bottom" role="navigation">
-    <div class="container">
-      <p>Full Stack Nanodegree Project 1</p>
-    </div>
-  </nav>
 </html>
 '''
 
