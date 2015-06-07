@@ -22,7 +22,7 @@
 <h3>File Structure</h3>
 
 <p>The project consists of three python files. "media.py" defines the class Movie, which contains certain movie attributes and a function that
-	opens a browser window. "fresh_tomatoes.py" contains html, css, and javascript code. When the function "open_movies_page" is called, it uses this code
+	opens a YouTube url. "fresh_tomatoes.py" contains html, css, and javascript code. When the function "open_movies_page" is called, it uses this code
 	to generate an html page that displays posters of the movie objects that were passed in as parameters. "ec.py" contains the individual movie objects of the 
 	class "Movie", and calls "open_movies_page" on those objects, creating and opening the web page.</p>
 
