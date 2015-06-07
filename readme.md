@@ -20,9 +20,10 @@
 <h3>Attribution</h3>
 
 </p>I wrote ec.py and media.py with guidance from Udacity's Programming Foundations in Python
-	course. I modified the fresh_tomatoes.py file provided by Udacity. The movie posters come from <a href="https://www.wikipedia.org/">Wikipedia</a>, 
+	course. I modified the fresh_tomatoes.py file that was provided by Udacity. The movie posters come from <a href="https://www.wikipedia.org/">Wikipedia</a>, 
 	and the plot descriptions are shortened versions of the ones at <a href="http://www.imdb.com/">IMDb/a>. 
 	The movie title font comes from <a href="http://www.fontsaddict.com/">fontsaddict.com</a>.
+
 
 
 
